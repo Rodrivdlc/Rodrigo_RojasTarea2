@@ -1,0 +1,32 @@
+¿Qué hace?:
+
+Este algoritmo solicita al usuario dos valores y luego intercambia los valores de las variables.
+Sin embargo, debido a un error lógico en el intercambio de valores,
+el resultado final será que ambas variables tendrán el mismo valor que el segundo valor introducido
+por el usuario.
+
+Posible corrección:
+
+Algoritmo CorregirIntercambioVariables
+Variable valor1, valor2, temp: real
+Inicio
+   valor1 <- enter("Introduza un valor: ")
+   valor2 <- enter("Introduza otro valor: ")
+
+   # Guardar el valor de valor1 en una variable temporal
+   temp <- valor1
+
+   # Asignar el valor de valor2 a valor1
+   valor1 <- valor2
+
+   # Asignar el valor original de valor1 (guardado en temp) a valor2
+   valor2 <- temp
+
+   # Ahora, valor1 y valor2 deberían tener valores intercambiados correctamente
+   escribir("valor1 = " & valor1 & "; valor2 = " & valor2)
+Fin
+En este pseudocódigo, se introduce una variable temporal llamada temp para guardar temporalmente el
+ valor de valor1. Luego, se intercambian los valores de valor1 y valor2. Finalmente, se muestra el
+ valor de ambas variables después del intercambio para verificar que se hayan intercambiado correctamente.
+ Esta solución corrige el error lógico del algoritmo original y garantiza que los valores se intercambien
+ correctamente.

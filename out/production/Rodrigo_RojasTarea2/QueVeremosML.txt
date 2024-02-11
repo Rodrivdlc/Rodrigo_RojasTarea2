@@ -1,0 +1,11 @@
+¿Qué se muestra?:
+
+    Al ejecutar el algoritmo, se mostrará:
+
+    Test , valor2 = 736
+    4 # 49.78
+
+    La variable cadena1 es "Test".
+    El valor de valor2 es el resultado de 2 * (92 % 8), que es 736.
+    El valor de valor1 es el resto de la división de 92 entre 8, que es 4.
+    Se muestra el valor de valor1 seguido de un "#" y el valor de la constante CST, que es 49.78.
