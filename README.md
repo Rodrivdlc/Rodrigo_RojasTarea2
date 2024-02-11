@@ -33,4 +33,4 @@ Solución: Encuentra la solución y corrección en el archivo QueHaceIA.
 
 Este ejercicio requiere desarrollar un algoritmo para calcular la velocidad media, como parte de un sistema de IA para el análisis de datos de transporte. Debes reflexionar sobre cómo este cálculo se integraría en un sistema de IA más grande y qué otros parámetros podrían ser importantes en este contexto.
 
-Solución: La solución a este problema se encuentra en el archivo que implementa el algoritmo para calcular la velocidad media como parte del sistema de IA para el análisis de datos de transporte.
+Solución: La solución a este problema se encuentra en el archivo que implementa el algoritmo para calcular la velocidad media como parte del sistema de IA para el análisis de datos de transporte: VelocidadMedia.java
