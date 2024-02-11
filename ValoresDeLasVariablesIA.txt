@@ -1,0 +1,5 @@
+Después de cada línea del algoritmo, 'a' y 'b' tendrán los siguientes valores:
+
+    Después de a <- 3, 'a' será 3.
+    Después de b <- a + 5, 'a' seguirá siendo 3 y 'b' será 8.
+    Después de a <- 7, 'a' será 7 y 'b' seguirá siendo 8
