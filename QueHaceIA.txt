@@ -1,0 +1,6 @@
+¿Qué hace?:
+
+Este algoritmo solicita al usuario dos valores y luego intercambia los valores de las variables.
+Sin embargo, debido a un error lógico en el intercambio de valores,
+el resultado final será que ambas variables tendrán el mismo valor que el segundo valor introducido
+por el usuario.
